@@ -1,0 +1,25 @@
+{
+  "name": "awesomefooter",
+  "version": "0.1.0",
+  "description": "Awesome Dynamic Footer for your Awesome projects with year and name!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D4rkdev1987/AwesomeFooter.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Benjamin Nicklaus <marineepo@gmail.com> (https://www.npmjs.com/~d4rkdev1987)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/D4rkdev1987/AwesomeFooter/issues"
+  },
+  "homepage": "https://github.com/D4rkdev1987/AwesomeFooter#readme",
+  "dependencies": {
+    "moment": "^2.27.0"
+  }
+}
